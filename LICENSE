@@ -1,0 +1,7 @@
+This standalone project contains original CC-SGCL code and a minimal third-party compatibility subset.
+
+Refer to:
+- third_party/hyliosr_compat/README.md
+- the original HyLiOSR repository license terms
+
+If you plan to redistribute this project, review the GPL v3 implications of the compatibility subset.

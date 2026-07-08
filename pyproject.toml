@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cosgl"
+version = "0.1.0"
+description = "CoSGL / S2G-CCSGCL method implementation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy",
+  "scipy",
+  "torch",
+  "scikit-learn",
+  "matplotlib",
+  "pyyaml",
+]
+
+[tool.setuptools.packages.find]
+include = ["cc_sgcl*", "third_party*"]
