@@ -1,8 +1,3 @@
-# CoSGL
-
-Official code release for **CoSGL: Class-Conditioned Spectral-Geometric Learning for Open-Set HSI-LiDAR Classification**.
-
-This repository contains only the proposed CoSGL / S2G-CCSGCL method implementation. Comparison-method adapters, external baseline repositories, manuscript drafts, datasets, trained weights, and generated experiment outputs are intentionally excluded.
 
 ## Repository Layout
 
